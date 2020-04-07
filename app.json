@@ -3,7 +3,7 @@
     "name": "Mendo",
     "slug": "Mendo",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
+    "sdkVersion": "~37.0.3",
     "platforms": [
       "ios",
       "android",
